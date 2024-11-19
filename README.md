@@ -2,7 +2,7 @@
 
 ## Description
 
-Le projet **Carte Interactive de la France** permet d'afficher une carte de la France où chaque région est cliquable. Lorsque l'utilisateur clique sur une région, il est redirigé vers le site officiel ou une page spécifique de cette région. Cette fonctionnalité est rendue possible grâce à l'utilisation d'une carte d'image (image map) en HTML et CSS.
+Le projet **Carte Interactive de la France** permet d'afficher une carte de la France où chaque région est cliquable. Lorsque l'utilisateur clique sur une région, il est redirigé vers le site officiel ou une page spécifique de cette région. Cette fonctionnalité est rendue possible grâce à l'utilisation d'une carte d'image (image map) en HTML, CSS et JS.
 
 Le but de ce projet est de fournir une interface simple et interactive pour explorer les différentes régions de la France avec un accès direct aux informations locales via des liens externes.
 
@@ -17,6 +17,7 @@ Le but de ce projet est de fournir une interface simple et interactive pour expl
 
 - **HTML5** : Structure de la carte et des liens.
 - **CSS3** : Mise en forme et conception de la page.
+- **JS** : Gerer la logique des zones.
 - **Image Map** : Utilisation des zones cliquables sur une image pour la navigation.
 
 ## Installation
